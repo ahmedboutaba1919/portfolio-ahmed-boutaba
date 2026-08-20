@@ -1,6 +1,7 @@
 import React from 'react';
 import { 
-  ShieldCheck, 
+  ShieldCheck,
+  Zap, 
   Workflow, 
   Clock, 
   Lock, 
